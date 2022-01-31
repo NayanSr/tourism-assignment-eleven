@@ -1,0 +1,49 @@
+/*
+
+[
+    {
+        "id": 1,
+        "name": "Sundarban",
+        "details": "Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban",
+        "price": 10000,
+        "img": "https://i.ibb.co/dD8Drsw/S-1.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Bagerhat",
+        "details": "Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban",
+        "price": 5000,
+        "img": "https://i.ibb.co/593dkth/S-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Kuakata",
+        "details": "Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban",
+        "price": 8000,
+        "img": "https://i.ibb.co/84Jcfzt/S-3jpg.jpg"
+    },
+    {
+        "id": 4,
+        "name": "cox-Bazar",
+        "details": "Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban",
+        "price": 12000,
+        "img": "https://i.ibb.co/Tg706yj/S-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sajeak",
+        "details": "Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban",
+        "price": 10000,
+        "img": "https://i.ibb.co/XkxkjzZ/S-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Nilgiri",
+        "details": "Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban Sundarban",
+        "price": 10000,
+        "img": "https://i.ibb.co/Dt01dbf/F-6.jpg"
+    }
+]
+
+    */

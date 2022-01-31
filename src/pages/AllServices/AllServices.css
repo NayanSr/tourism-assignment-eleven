@@ -1,0 +1,27 @@
+.servicees{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:25px;
+    background-color: rgb(196, 189, 133);
+    /* border: 2px solid red; */
+}
+
+
+/* Responsive */
+
+@media only screen and (max-width:688px) {
+    .servicees{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        background-color: rgb(184, 179, 141);
+    }
+}
+
+@media only screen and (max-width:991px) and (min-width:689px) {
+    .servicees{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        background-color: rgb(194, 191, 167);
+    }
+    
+}
